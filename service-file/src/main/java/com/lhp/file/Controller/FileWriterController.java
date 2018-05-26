@@ -11,7 +11,7 @@ public class FileWriterController {
 
     @RequestMapping(value = "/hello")
     public String hello(String name){
-        return "Hello " + name + "the time is " + new Date();
+        return "Hello " + name + "the time is ";
     }
 
 }
