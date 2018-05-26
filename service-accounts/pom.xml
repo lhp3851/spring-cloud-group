@@ -4,12 +4,12 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>com.lhp</groupId>
-    <artifactId>study</artifactId>
+    <artifactId>accounts</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <packaging>jar</packaging>
 
-    <name>study</name>
-    <description>study project for Spring Boot</description>
+    <name>accounts</name>
+    <description>accounts project for Spring Boot</description>
 
     <parent>
         <groupId>org.springframework.boot</groupId>

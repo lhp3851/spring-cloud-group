@@ -6,8 +6,10 @@
       <list>
         <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/service-regsiter/pom.xml" />
+        <option value="$PROJECT_DIR$/service-accounts/pom.xml" />
         <option value="$PROJECT_DIR$/service-study/pom.xml" />
-        <option value="$PROJECT_DIR$/service-account/pom.xml" />
+        <option value="$PROJECT_DIR$/service-gateway/pom.xml" />
+        <option value="$PROJECT_DIR$/service-file/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">

@@ -6,12 +6,15 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="service-account" />
+        <module name="service-accounts" />
+        <module name="service-file" />
+        <module name="service-gateway" />
         <module name="service-regsiter" />
         <module name="service-study" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="service-account" target="1.8" />
       <module name="service-tree" target="1.5" />
     </bytecodeTargetLevel>
   </component>
