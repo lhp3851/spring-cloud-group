@@ -9,6 +9,7 @@
         <module name="maven" />
         <module name="service-accounts" />
         <module name="service-config" />
+        <module name="service-config-client" />
         <module name="service-file" />
         <module name="service-gateway" />
         <module name="service-regsiter" />
