@@ -6,7 +6,13 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="accounts" />
+        <module name="config (1) (com.config)" />
+        <module name="config (2) (com.lhp)" />
+        <module name="file" />
+        <module name="gateway" />
         <module name="maven" />
+        <module name="regsiter" />
         <module name="service-accounts" />
         <module name="service-config" />
         <module name="service-config-client" />
@@ -14,6 +20,7 @@
         <module name="service-gateway" />
         <module name="service-regsiter" />
         <module name="service-study" />
+        <module name="study" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
