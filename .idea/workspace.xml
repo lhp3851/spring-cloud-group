@@ -2,14 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a9bda049-9dc8-4e4a-9c55-556604ddaea3" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/service-config-client/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/service-config-client/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/service-config-client/src/main/java/com/config/config/ConfigApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/service-config-client/src/main/java/com/config/config/ConfigApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/service-config-client/src/main/resources/bootstrap.properties" beforeDir="false" afterPath="$PROJECT_DIR$/service-config-client/src/main/resources/bootstrap.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/service-config/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/service-config/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/service-config/src/main/java/com/lhp/config/ConfigApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/service-config/src/main/java/com/lhp/config/ConfigApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/service-config/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/service-config/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/spring-cloud-config/spring-cloud-group-test.properties" beforeDir="false" afterPath="$PROJECT_DIR$/spring-cloud-config/spring-cloud-group-test.properties" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -41,6 +34,15 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="spring-cloud-group-test.properties" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/spring-cloud-config/spring-cloud-group-test.properties">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="68">
+              <caret line="4" column="53" selection-start-line="4" selection-start-column="53" selection-end-line="4" selection-end-column="53" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="ConfigApplication.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/service-config/src/main/java/com/lhp/config/ConfigApplication.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -68,7 +70,7 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="bootstrap.properties" pinned="false" current-in-tab="true">
+      <file leaf-file-name="bootstrap.properties" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/service-config-client/src/main/resources/bootstrap.properties">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="68">
@@ -86,15 +88,6 @@
                 <element signature="e#345#346#0" expanded="true" />
                 <element signature="e#413#414#0" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="StudyApplication.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/service-study/src/main/java/com/lhp/study/StudyApplication.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="102">
-              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -177,13 +170,13 @@
         <option value="$PROJECT_DIR$/spring-cloud-config/spring-cloud-group-dev.properties" />
         <option value="$PROJECT_DIR$/service-config-client/src/main/resources/application.properties" />
         <option value="$PROJECT_DIR$/service-config-client/src/main/java/com/config/config/com/config/client/ClientController.java" />
-        <option value="$PROJECT_DIR$/spring-cloud-config/spring-cloud-group-test.properties" />
         <option value="$PROJECT_DIR$/service-config-client/pom.xml" />
         <option value="$PROJECT_DIR$/service-config/pom.xml" />
         <option value="$PROJECT_DIR$/service-config/src/main/resources/application.properties" />
         <option value="$PROJECT_DIR$/service-config/src/main/java/com/lhp/config/ConfigApplication.java" />
         <option value="$PROJECT_DIR$/service-config-client/src/main/java/com/config/config/ConfigApplication.java" />
         <option value="$PROJECT_DIR$/service-config-client/src/main/resources/bootstrap.properties" />
+        <option value="$PROJECT_DIR$/spring-cloud-config/spring-cloud-group-test.properties" />
       </list>
     </option>
   </component>
@@ -344,6 +337,11 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="spring-cloud-group" type="b2602c69:ProjectViewProjectNode" />
+              <item name="spring-cloud-group" type="462c0819:PsiDirectoryNode" />
+              <item name="spring-cloud-config" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -502,15 +500,15 @@
       <workItem from="1527475183655" duration="13000" />
       <workItem from="1527482045354" duration="16220000" />
       <workItem from="1527520700473" duration="2866000" />
-      <workItem from="1527607312929" duration="1732000" />
+      <workItem from="1527607312929" duration="1885000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="40498000" />
+    <option name="totallyTimeSpent" value="40651000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="595" y="23" width="2197" height="1417" extended-state="0" />
+    <frame x="252" y="23" width="2197" height="1417" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
@@ -519,7 +517,7 @@
       <window_info anchor="right" id="Palette&#9;" order="3" />
       <window_info anchor="bottom" id="Java Enterprise" order="7" />
       <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
-      <window_info anchor="bottom" id="Run Dashboard" order="8" visible="true" weight="0.46165302" />
+      <window_info active="true" anchor="bottom" id="Run Dashboard" order="8" visible="true" weight="0.46165302" />
       <window_info anchor="right" id="Maven Projects" order="3" visible="true" weight="0.17796996" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="7" />
@@ -527,7 +525,7 @@
       <window_info anchor="bottom" id="Spring" order="7" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.4033438" />
       <window_info id="Designer" order="2" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16203915" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16203915" />
       <window_info anchor="right" id="Bean Validation" order="3" />
       <window_info id="Web" order="2" side_tool="true" />
       <window_info anchor="right" id="Database" order="3" />
@@ -755,13 +753,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/spring-cloud-config/spring-cloud-group-test.properties">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret line="6" column="22" selection-start-line="6" selection-start-column="22" selection-end-line="6" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/service-regsiter/src/main/java/com/lhp/regsiter/RegsiterApplication.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-7">
@@ -839,6 +830,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/service-config-client/src/main/resources/bootstrap.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="41" selection-start-line="4" selection-start-column="41" selection-end-line="4" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/service-config-client/src/main/resources/application.properties">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -846,10 +844,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/service-config-client/src/main/resources/bootstrap.properties">
+    <entry file="file://$PROJECT_DIR$/spring-cloud-config/spring-cloud-group-test.properties">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
-          <caret line="4" column="41" selection-start-line="4" selection-start-column="41" selection-end-line="4" selection-end-column="41" />
+          <caret line="4" column="53" selection-start-line="4" selection-start-column="53" selection-end-line="4" selection-end-column="53" />
         </state>
       </provider>
     </entry>
